@@ -156,6 +156,6 @@ Developed by YOUR_NAME
 
 ---
 
-# 📜 License
+# License
 
 Free to use for learning purposes.
