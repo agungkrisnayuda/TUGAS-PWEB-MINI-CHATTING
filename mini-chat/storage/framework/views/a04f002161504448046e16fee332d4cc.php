@@ -1,0 +1,1 @@
+<?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/mini-chat/resources/views/layouts/navigation.blade.php ENDPATH**/ ?>
