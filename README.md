@@ -152,7 +152,7 @@ public/
 
 # Author
 
-Developed by YOUR_NAME
+Developed by Krisna Yuda
 
 ---
 
